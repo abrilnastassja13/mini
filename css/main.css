@@ -13,12 +13,14 @@
 
 .boton {
 	background-color: #3FD9F0;
-	width: 80px;
-	height: 30px;
+	width: 100px;
+	height: 40px;
 	border: #3FD9F0;
 	border-radius: 5px;
 	position: absolute;
 	top: 70px;
+	left: 50px;
+	font-weight: bold;
 }
 
 li {
@@ -70,4 +72,5 @@ p,h1 {
 	background-color: black;
 	color: grey;
 	height: 90px;
+	padding: 30px;
 }
