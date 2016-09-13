@@ -1,0 +1,73 @@
+.fondo {
+	background-image: url(../img/fondo.jpg);
+	background-size: cover;
+	height: 800px;
+}
+
+.logo {
+	width: 300px;
+	height: 300px;
+	position: relative;
+	left: 70px;
+}	
+
+.boton {
+	background-color: #3FD9F0;
+	width: 80px;
+	height: 30px;
+	border: #3FD9F0;
+	border-radius: 5px;
+	position: absolute;
+	top: 70px;
+}
+
+li {
+	list-style: none;
+	display: inline-block;
+	margin: 13px;
+	position: relative;
+	left: 900px;
+	bottom: 250px;
+}
+
+a {
+	text-decoration: none;
+	color: #00F0FF;
+	font-size: 18px;
+}
+
+section {
+	padding: 20px;
+}
+
+.imagenes {
+	background-color: grey;
+}
+
+.foto {
+	width: 300px;
+	height:300px;
+	display: inline-block;
+	margin-top: 40px;
+	margin-left: 70px;
+}
+
+.box {
+	position: relative;
+	width: 450px;
+	height: 550px;
+	background-color: #DCDCDC;
+	margin-top: 40px;
+	margin-left: 70px;
+}
+p,h1 {
+	position: relative;
+	left: 30px;
+}
+
+.foot {
+	position: relative;
+	background-color: black;
+	color: grey;
+	height: 90px;
+}
